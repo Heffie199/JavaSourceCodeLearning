@@ -1,7 +1,7 @@
 package com.bruis.springsecurity.dto;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class User {
     private Long id;

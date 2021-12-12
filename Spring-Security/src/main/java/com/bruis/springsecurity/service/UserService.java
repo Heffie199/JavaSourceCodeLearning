@@ -5,7 +5,7 @@ import com.bruis.springsecurity.dto.User;
 import java.util.Set;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public interface UserService {
 

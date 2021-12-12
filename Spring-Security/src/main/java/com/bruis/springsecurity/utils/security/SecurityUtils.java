@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class SecurityUtils {
 

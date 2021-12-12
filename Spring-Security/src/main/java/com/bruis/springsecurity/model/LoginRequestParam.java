@@ -1,7 +1,7 @@
 package com.bruis.springsecurity.model;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class LoginRequestParam {
 

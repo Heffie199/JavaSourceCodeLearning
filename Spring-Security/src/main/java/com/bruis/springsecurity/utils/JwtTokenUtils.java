@@ -15,7 +15,7 @@ import java.io.Serializable;
 import java.util.*;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class JwtTokenUtils implements Serializable {
 

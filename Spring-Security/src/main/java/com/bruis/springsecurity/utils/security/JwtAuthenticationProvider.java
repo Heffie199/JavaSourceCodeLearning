@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  *
  * DaoAuthenticationProvider 系统默认的身份认证组件
  *

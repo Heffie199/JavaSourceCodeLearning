@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 @Service
 public class SysUserServiceImpl implements UserService{

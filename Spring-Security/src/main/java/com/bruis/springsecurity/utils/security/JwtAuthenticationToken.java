@@ -9,7 +9,7 @@ import java.util.Collection;
  *
  * 自定义令牌
  *
- * @author LuoHaiYang
+ * @author super_he
  */
 public class JwtAuthenticationToken extends UsernamePasswordAuthenticationToken {
     private static final long serialVersionUID = 1L;

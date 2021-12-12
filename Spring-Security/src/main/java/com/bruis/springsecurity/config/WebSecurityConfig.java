@@ -20,7 +20,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import org.springframework.security.web.authentication.logout.HttpStatusReturningLogoutSuccessHandler;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 @Configuration
 @EnableWebSecurity

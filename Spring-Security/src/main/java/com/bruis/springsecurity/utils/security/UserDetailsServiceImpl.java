@@ -14,7 +14,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {

@@ -25,7 +25,7 @@ import java.nio.charset.Charset;
 
 /**
  * 启动登录认证流程过滤器
- * @author LuoHaiYang
+ * @author super_he
  */
 public class JwtLoginFilter extends UsernamePasswordAuthenticationFilter {
 

@@ -6,7 +6,7 @@ import org.springframework.security.core.userdetails.User;
 import java.util.Collection;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class JwtUserDetails extends User {
 

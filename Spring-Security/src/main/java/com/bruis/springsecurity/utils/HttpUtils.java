@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class HttpUtils {
     /**

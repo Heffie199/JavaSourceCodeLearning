@@ -3,7 +3,7 @@ package com.bruis.springsecurity.utils.security;
 import org.springframework.security.core.GrantedAuthority;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 public class GrantedAuthorityImpl implements GrantedAuthority {
 

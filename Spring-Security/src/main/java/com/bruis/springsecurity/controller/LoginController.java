@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 /**
- * @author LuoHaiYang
+ * @author super_he
  */
 @RestController
 public class LoginController {
